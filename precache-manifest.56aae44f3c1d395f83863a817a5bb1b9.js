@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe39b24910963f62fd7d35293ddd547a",
+    "revision": "53cf07cf88835c0e72b4ac1b25645213",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.223d7eda.chunk.css"
   },
   {
-    "revision": "ad6084dcbf2be7d04ac6",
+    "revision": "f818ddb21cedc53d328d",
     "url": "/static/css/main.d9739d03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.301d2049.chunk.js"
   },
   {
-    "revision": "ad6084dcbf2be7d04ac6",
-    "url": "/static/js/main.bb98e3da.chunk.js"
+    "revision": "f818ddb21cedc53d328d",
+    "url": "/static/js/main.ec042ba1.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -136,8 +136,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/setTimeout，setInterval初认识.6bbeca88.md"
   },
   {
-    "revision": "b2b98a5a73a6792de7c28788eb1abb7c",
-    "url": "/static/media/前端安全详解.b2b98a5a.md"
+    "revision": "4f4472c8efc5c825b125ca71d51c3248",
+    "url": "/static/media/前端安全详解.4f4472c8.md"
   },
   {
     "revision": "44830069a55df477f7dfff42880dd1c0",
